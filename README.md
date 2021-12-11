@@ -1,1 +1,1 @@
-# QuatKGE
+# Quaternion_Graph_Embedding
