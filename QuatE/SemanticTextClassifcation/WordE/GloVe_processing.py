@@ -3,7 +3,7 @@ import bcolz
 import numpy as np
 
 
-glove_path = './data/'
+glove_path = './QuatKGE/QuatE/SemanticTextClassifcation/CharE/data/'
 
 words = []
 idx = 0
